@@ -1,1 +1,2 @@
-# ContestsTracer
+# ContestsTracer  
+这是一个用来查看最近算法比赛的插件，上面默认的数字是最近12小时的比赛。
